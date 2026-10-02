@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.natamus.softerhaybales.mixin",
+  "package": "com.serilum.softerhaybales.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
 
