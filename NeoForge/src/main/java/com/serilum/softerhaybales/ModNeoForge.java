@@ -1,9 +1,9 @@
-package com.natamus.softerhaybales;
+package com.serilum.softerhaybales;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.softerhaybales.neoforge.events.NeoForgeFallEvent;
-import com.natamus.softerhaybales.util.Reference;
+import com.serilum.softerhaybales.neoforge.events.NeoForgeFallEvent;
+import com.serilum.softerhaybales.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;

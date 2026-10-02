@@ -1,4 +1,4 @@
-package com.natamus.softerhaybales;
+package com.serilum.softerhaybales;
 
 
 public class ModCommon {

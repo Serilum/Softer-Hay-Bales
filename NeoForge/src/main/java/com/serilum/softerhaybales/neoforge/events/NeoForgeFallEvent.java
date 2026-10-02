@@ -1,6 +1,6 @@
-package com.natamus.softerhaybales.neoforge.events;
+package com.serilum.softerhaybales.neoforge.events;
 
-import com.natamus.softerhaybales.events.FallEvent;
+import com.serilum.softerhaybales.events.FallEvent;
 import net.minecraft.world.entity.LivingEntity;
 import net.neoforged.neoforge.event.entity.living.LivingFallEvent;
 import net.neoforged.bus.api.SubscribeEvent;
