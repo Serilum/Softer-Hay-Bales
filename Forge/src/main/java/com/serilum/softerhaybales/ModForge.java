@@ -1,9 +1,9 @@
-package com.natamus.softerhaybales;
+package com.serilum.softerhaybales;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.softerhaybales.forge.events.ForgeFallEvent;
-import com.natamus.softerhaybales.util.Reference;
+import com.serilum.softerhaybales.forge.events.ForgeFallEvent;
+import com.serilum.softerhaybales.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +28,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeFallEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeFallEvent.class);
 	}
 
 	private static void setGlobalConstants() {

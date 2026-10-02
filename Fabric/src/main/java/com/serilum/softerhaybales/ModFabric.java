@@ -1,10 +1,10 @@
-package com.natamus.softerhaybales;
+package com.serilum.softerhaybales;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.softerhaybales.events.FallEvent;
-import com.natamus.softerhaybales.util.Reference;
+import com.serilum.softerhaybales.events.FallEvent;
+import com.serilum.softerhaybales.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.Level;

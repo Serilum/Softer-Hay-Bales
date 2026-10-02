@@ -1,4 +1,4 @@
-package com.natamus.softerhaybales.events;
+package com.serilum.softerhaybales.events;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.Entity;
